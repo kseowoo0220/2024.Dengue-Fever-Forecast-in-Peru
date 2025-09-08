@@ -1,12 +1,10 @@
 # Dengue Fever Forecast in Peru
 ###  Insights for Public Health Policy
 
-This project applies a **Vector Autoregression (VAR) model** to forecast dengue fever incidence in Peru.  
-The goal is to provide policymakers with actionable insights for **targeted interventions** and **resource allocation** in high-risk districts.
+This project applies a **Vector Autoregression (VAR) model** to forecast dengue fever incidence in Peru. The goal is to provide policymakers with actionable insights for **targeted interventions** and **resource allocation** in high-risk districts.
 
 ## Overview
-Dengue fever remains a pressing public health concern in Peru, particularly in outbreak-prone areas.  
-This study leverages epidemiological and environmental data to forecast dengue case counts across 53 districts, aiming to guide prevention strategies and optimize healthcare responses.
+Dengue fever remains a pressing public health concern in Peru, particularly in outbreak-prone areas. This study leverages epidemiological and environmental data to forecast dengue case counts across 53 districts, aiming to guide prevention strategies and optimize healthcare responses.
 
 ## Data
 - **Observations:** 62,752  
