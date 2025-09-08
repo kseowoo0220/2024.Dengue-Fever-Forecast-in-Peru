@@ -1,4 +1,5 @@
-# Dengue Fever Forecast in Peru - Insights for Public Health Policy
+# Dengue Fever Forecast in Peru
+###  Insights for Public Health Policy
 
 This project applies a **Vector Autoregression (VAR) model** to forecast dengue fever incidence in Peru.  
 The goal is to provide policymakers with actionable insights for **targeted interventions** and **resource allocation** in high-risk districts.
